@@ -1,3 +1,4 @@
 git - is a tool
 gitup -is a cloud account
 pwd - present working  directiory
+pull -is to pull data from to remote
